@@ -1,0 +1,7 @@
+streamlit
+kokoro>=0.1.9
+torch
+torchaudio
+numpy
+soundfile
+requests
